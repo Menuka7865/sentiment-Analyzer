@@ -4,7 +4,7 @@ A sentiment classifier trained on real, scraped Google Play Store reviews
 (not a pre-cleaned academic dataset), deployed as a live web app.
 
 ## 🔗 Live Demo
-[Try it here](your-streamlit-link)
+[Try it here](https://sentiment-analyzer-menuka-projects.streamlit.app/)
 
 ## 📊 Overview
 - **Data**: ~3,000 real user reviews scraped via `google-play-scraper`
