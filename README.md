@@ -23,6 +23,9 @@ streamlit run app.py
 
 ## 📈 Results
 <img width="560" height="503" alt="image" src="https://github.com/user-attachments/assets/f68fdd0b-4f1e-4603-b797-5a3166b771b8" />
+<img width="513" height="470" alt="image" src="https://github.com/user-attachments/assets/7c975a9d-7d76-4b58-abf8-64d26fbfc3f2" />
+
+
 
 
 ## 💡 Key Design Decisions
